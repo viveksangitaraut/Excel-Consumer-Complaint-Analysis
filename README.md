@@ -18,7 +18,7 @@ Pivot tables and slicers: Interactive data exploration.
 Data analysis: Trend identification, pattern recognition, and insights extraction
 Data visualization: Creation of dynamic charts and dashboards.
 Report generation: Summarizing analysis results in a clear and concise manner.
----------------------------------------------------------
+
 
 --------------------------------------------------------------------------------------------------------------------------------------
           -----    Feel free to explore the project and provide feedback. Contributions and suggestions are welcome! ----
